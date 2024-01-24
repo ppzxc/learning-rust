@@ -1,5 +1,6 @@
+workspace = { members = ["guessing_game"] }
 [package]
-name = "guessing_game"
+name = "hello_cargo"
 version = "0.1.0"
 edition = "2021"
 
