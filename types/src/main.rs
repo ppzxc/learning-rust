@@ -20,5 +20,22 @@ fn main() {
 
     // remainder
     let remainder = 43 % 5;
+
+    // bool
+    let t = true;
+    let f: bool = false;
+
+    // char
+    let c = 'z';
+    let z: char = 'Z';
+    let heart_eyed_car = '😻';
+
+    // compound type
+    let tup: (i32, f64, u8) = (500, 6.4, 1);
+    let tup2 = (500, 6.4, 1);
+    let (x, y, z) = tup2;
+    println!("The Value Of Y IS :{tup}");
+    println!("The Value Of Y IS :{tup2}");
+    println!("The Value Of Y IS :{x} {y} {z}")
 }
 
