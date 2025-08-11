@@ -1,3 +1,3 @@
-# rust learning
+# learning-rust
 
-## 2024-01-24 다시 공부
+- [doc.rust-lang.org/book](https://doc.rust-lang.org/book)
